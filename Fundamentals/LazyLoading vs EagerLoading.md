@@ -1,0 +1,4 @@
+
+**Lazy loading** is a technique used in modern web frameworks, including Vue.js and others, to optimize the loading performance of web pages or applications by deferring the loading of certain parts of the code until they are actually needed. This is also sometimes referred to as "`code splitting`".
+
+The counterpart of lazy loading is commonly referred to as "`eager loading`" or "upfront loading". **Eager loading** is the traditional approach where all the necessary resources, such as components, routes, and other assets, are loaded upfront when the web application loads, regardless of whether they are immediately needed or not.
