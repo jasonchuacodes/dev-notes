@@ -1,21 +1,7 @@
-# sph-solidity
+# dev-notes
 
-A simulation project about blockchain technology.
+These are notes and insights that I have compiled over the course of my career as a web developer.
 
-### About
-SPH_Solidity is decentralized system for starting a campaing to support indie/startup projects using tokens in the blockchain.
+### Author
 
-It highlights transparency, accountability, and reliability in making sure that the donations are going to the right individuals organizations.
-
-### Team
-- Chevy 
-- John
-- Jason
-- Wylen
-- Arden
-
-ts OK
-eslint OK 
-tailwind OK
-headlessui OK
-husky
+- Jason Clyde Chua
