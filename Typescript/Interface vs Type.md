@@ -46,3 +46,37 @@ let person: IPerson = {
 	activeAvenger: true, 
 	powers: ['wall-crawl', 'spider-sense'] 
 }
+```
+
+________
+### Tips in writing Interfaces 
+
+A properly defined interface will help us from issues related to improperly using functions. To start with writing an interface, we ask 3 questions:
+
+1. What *arguments* do we pass to our function? 
+```js
+interface FetchOptions { 
+	url: string; 
+	method: string; 
+} 
+
+function useFetch(options: FetchOptions): void { 
+// Function implementation 
+}
+```
+
+2. What values does our function *return*?
+```js
+interface CounterResult { 
+	count: number; 
+	increment: () => void; 
+	decrement: () => void; 
+} 
+
+function useCounter(): CounterResult {
+	return { 
+		count: 0, increment: () => { }, 
+		decrement: () => { },
+	 }; 
+ }
+```

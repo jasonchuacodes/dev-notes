@@ -25,7 +25,7 @@ Assuming you already have an SSH key associated with your `jasonclchua` account,
        User git
        IdentityFile ~/.ssh/id_ed25519_jasonclchua
    
-   Host github.com-jasonchuacodes
+   Host github.com
        HostName github.com
        User git
        IdentityFile ~/.ssh/id_ed25519_jasonchuacodes
@@ -42,15 +42,21 @@ Assuming you already have an SSH key associated with your `jasonclchua` account,
    ```
 
    You should now see a message like the following:
-
    ```
    Hi jasonclchua! You've successfully authenticated, but GitHub does not provide shell access.
    ```
+Now your SSH connection is authenticated with your `jasonclchua` account. 
 
-Now your SSH connection is authenticated with your `jasonclchua` account. To switch back to your `jasonchuacodes` account, you can run:
+____
 
+To switch back to your `jasonchuacodes` account, you can start the ssh-agent in the background;
+```shell
+eval "$(ssh-agent -s)"
 ```
-ssh-add ~/.ssh/id_ed25519_jasonchuacodes
+
+and then add the ssh_id that you want to use. In this case, the ssh_id is saved as `id_jasonchuacodes`
+```
+ssh-add ~/.ssh/id_jasonchuacodes
 ```
 
 This will add the SSH key associated with your `jasonchuacodes` account to your SSH agent, allowing you to switch between your two accounts as needed.
