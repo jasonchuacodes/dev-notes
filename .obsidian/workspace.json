@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ce34421e25317c1",
+        "id": "0a7a4823197ab630",
         "type": "tabs",
         "children": [
           {
-            "id": "740b1ea5d72337ef",
+            "id": "8e6b17d625bc1724",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbfb6f89b359dc54",
+  "active": "8e6b17d625bc1724",
   "lastOpenFiles": [
-    "Bug Fixes/Permission Denied.md",
+    "Packages/vee-validate.md",
+    "Packages/bcrypt.md",
+    "Packages/VueUse.md",
+    "Packages",
+    "Github/Git commands.md",
+    "Frontend/Tailwind/custom styles.md",
+    "Frontend/Tailwind",
+    "Projects/SleepWell.md",
+    "Learnings.md",
     "Github/SSH authentication.md",
+    "Typescript/Interface vs Type.md",
+    "Frontend/Javascript.md",
     "Github/SSH keys.md",
+    "Bug Fixes/Permission Denied.md",
     "Frontend/VueJS/V-model and V-bind.md",
     "Frontend/VueJS/NuxtJS/defineProps().md",
     "Frontend/VueJS/NuxtJS/defineEmits().md",
@@ -160,21 +171,11 @@
     "Frontend/VueJS/NuxtJS/Untitled.md",
     "Frontend/VueJS/NuxtJS/SSR Authentication.md",
     "ReadMe.md",
-    "Typescript/Interface vs Type.md",
     "Tools/Tailwind.md",
     "Bug Fixes/Docker Setup for m1 chip.md",
     "Typescript/Type-based declaration.md",
     "Frontend/VueJS/Composables.md",
-    "Frontend/VueJS/Context.md",
-    "Frontend/VueJS/Vue Router/Query parameters.md",
-    "Frontend/VueJS/Vue Router/Route errors.md",
-    "Frontend/VueJS/Vue Router/Lazy loading routes.md",
-    "Frontend/ReactJS/NextJS/Route Protection.md",
-    "Frontend/ReactJS/NextJS/NextJS.md",
-    "Frontend/ReactJS/NextJS/getServerSideProps.md",
     "Frontend/VueJS/NuxtJS",
-    "Bug Fixes/CSRF token mismatch.md",
-    "Fundamentals/Enums.md",
     "Github",
     "Frontend/VueJS/V-model"
   ]
