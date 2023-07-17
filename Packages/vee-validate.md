@@ -1,5 +1,5 @@
 #### Installation
-`yarn add vee-validate
+`yarn add vee-validate 
 
 #### Purpose
 for easy form-validation in VueJS.

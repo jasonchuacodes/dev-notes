@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "300d94c500cb64c4",
+        "id": "e6bb7f360320dfe5",
         "type": "tabs",
         "children": [
           {
-            "id": "842a77cb1e445eba",
+            "id": "1fb168ba609ca631",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spread",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,13 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "842a77cb1e445eba",
+  "active": "1fb168ba609ca631",
   "lastOpenFiles": [
-    "Fundamentals/Spread operator.md",
-    "Github/SSH authentication.md",
+    "Bug Fixes/CORS error.md",
+    "Bug Fixes/CORS error.md",
+    "Backend/Laravel/Laravel.md",
+    "Packages/JWT token.md",
+    "Packages/VueUse.md",
     "Packages/vee-validate.md",
     "Packages/bcrypt.md",
-    "Packages/VueUse.md",
+    "Fundamentals/Spread operator.md",
+    "Github/SSH authentication.md",
     "Packages",
     "Github/Git commands.md",
     "Frontend/Tailwind/custom styles.md",
@@ -165,10 +168,6 @@
     "Frontend/VueJS/NuxtJS/Untitled.md",
     "Frontend/VueJS/NuxtJS/SSR Authentication.md",
     "ReadMe.md",
-    "Tools/Tailwind.md",
-    "Bug Fixes/Docker Setup for m1 chip.md",
-    "Typescript/Type-based declaration.md",
-    "Frontend/VueJS/Composables.md",
     "Frontend/VueJS/NuxtJS",
     "Github",
     "Frontend/VueJS/V-model"
