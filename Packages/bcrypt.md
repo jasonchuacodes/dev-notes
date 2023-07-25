@@ -3,3 +3,6 @@
 
 #### Purpose
 for hashing important passwords
+
+#### Usage
+

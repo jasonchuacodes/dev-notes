@@ -7,3 +7,4 @@ JWT stands for JSON Web Token. These are tokens generated for website security a
 
 They are widely used in web applications and APIs to implement authentication and authorization mechanisms.
 
+#### Usage
