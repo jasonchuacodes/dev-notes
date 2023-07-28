@@ -1,5 +1,6 @@
 ### Problem
-The `sph` project is split into two main directories - `fe` and `be`. I need to install a linter package "husky" which need the .git file. 
+The  project `sph` is split into two main directories - `fe` and `be`. 
+I need to install a linter package "husky" which needs the .git file. 
 
 The problem is, the .git file is inside the parent directory and the package.json file is inside `fe` directory.
 

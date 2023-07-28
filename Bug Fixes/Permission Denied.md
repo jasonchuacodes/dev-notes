@@ -1,10 +1,9 @@
-### PROBLEM
+#### Problem
 Cannot access files or run `pnpm dev` because of permission denied.
 
-### REASON
 Permissions granted for current user doesn't include reading/writing in the current directory and its contents.
 
-### SOLUTION
+#### Solution
 Change the ownership of the directory and grant all access with the ff command:
 `sudo chown -R username:username /path/to/file/`
 

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ba957af36f8f1e5a",
+        "id": "9374c6d76a5b58a7",
         "type": "tabs",
         "children": [
           {
-            "id": "faac743b57abf77b",
+            "id": "d08bfa304f6e4933",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Github/SSH authentication.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "serialization",
+                "query": "reduce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Github/SSH authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Github/SSH authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Github/SSH authentication.md"
+              }
             }
           }
         ]
@@ -138,41 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faac743b57abf77b",
+  "active": "d08bfa304f6e4933",
   "lastOpenFiles": [
-    "Fundamentals/Serialization.md",
-    "Fundamentals/Promises.md",
-    "Packages/Memo.md",
-    "Fundamentals/Enums.md",
+    "Github/Git commands.md",
+    "Github/SSH authentication.md",
+    "Backend/NodeJS/Nest/ArgumentHost.md",
+    "Fundamentals/Methods/Slice.md",
+    "Backend/NodeJS/Nest",
+    "Backend/NodeJS",
+    "Fundamentals/Methods/Filter.md",
+    "Fundamentals/Methods/Reduce.md",
     "Frontend/Javascript.md",
     "Backend/Laravel/Collections.md",
-    "Backend/Express/NestJS/cookie.md",
-    "Github/SSH authentication.md",
-    "Backend/Express/NestJS",
-    "Backend/Express",
-    "Packages/js-cookie.md",
-    "Packages/bcrypt.md",
-    "Packages/JQuery.md",
-    "Frontend/ReactJS/NextJS/Route Protection.md",
+    "Untitled.md",
+    "Fundamentals/Methods/Sort.md",
+    "Fundamentals/Methods",
+    "Fundamentals/Promises.md",
+    "Fundamentals/Json.md",
+    "Packages/class-transformer.md",
+    "Packages/cookie-parser.md",
     "Packages/JWT token.md",
-    "Packages/Laravel Excel.md",
-    "Packages/Axios.md",
-    "Packages/VueUse.md",
-    "Packages/Zod - validation.md",
-    "Packages/vee-validate.md",
-    "Packages/TUI Grid.md",
+    "Typescript/TypeScript.md",
+    "Typescript/Type-based declaration.md",
+    "Typescript/Interface vs Type.md",
+    "Resources/Figma - Reusable components.webm",
     "Packages/Tailwind.md",
-    "Github/Unwanted tracking branch.md",
-    "Bug Fixes/Permission Denied.md",
-    "Tooling/Docker/docker-compose.yml.md",
-    "Tooling/Docker/Dockerfile.md",
-    "Tooling/Docker",
-    "TO LEARN.md",
-    "ReadMe.md",
-    "Pasted image 20230426134840.png",
+    "Packages/Memo.md",
+    "Packages/Laravel Excel.md",
+    "Packages/bcrypt.md",
+    "Packages/Axios.md",
+    "Packages/vee-validate.md",
+    "Packages/VueUse.md",
+    "Packages/TUI Grid.md",
     "Packages",
     "Frontend/Tailwind",
-    "Untitled",
     "Frontend/VueJS/NuxtJS",
     "Github",
     "Frontend/VueJS/V-model"
