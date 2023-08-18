@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9374c6d76a5b58a7",
+        "id": "927dd26c8dcd713c",
         "type": "tabs",
         "children": [
           {
-            "id": "d08bfa304f6e4933",
+            "id": "642dae47083d2966",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github/SSH authentication.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reduce",
+                "query": "prisma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github/SSH authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github/SSH authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Github/SSH authentication.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,42 +138,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d08bfa304f6e4933",
+  "active": "642dae47083d2966",
   "lastOpenFiles": [
-    "Github/Git commands.md",
-    "Github/SSH authentication.md",
-    "Backend/NodeJS/Nest/ArgumentHost.md",
-    "Fundamentals/Methods/Slice.md",
-    "Backend/NodeJS/Nest",
-    "Backend/NodeJS",
-    "Fundamentals/Methods/Filter.md",
-    "Fundamentals/Methods/Reduce.md",
-    "Frontend/Javascript.md",
+    "Backend/Database/Prisma/Setting up Prisma & Database.md",
+    "Backend/Database/Prisma/Topics to learn.md",
     "Backend/Laravel/Collections.md",
-    "Untitled.md",
-    "Fundamentals/Methods/Sort.md",
+    "Backend/Database/Prisma/Using PrismaClient/Some.md",
+    "Backend/Database/Prisma/Pagination.md",
+    "Backend/Database/Prisma/Prisma schema.md",
+    "Backend/Database/Prisma/PrismaClient.md",
+    "Bug Fixes/CORS error.md",
+    "Bug Fixes/Package requires child directory .git.md",
+    "Bug Fixes/VSCode uses src as import path.md",
+    "Bug Fixes/Permission Denied.md",
+    "Fundamentals/Clean Code/Learnings.md",
+    "Fundamentals/Clean Code",
+    "Web Design/Figma Plugins.md",
+    "Web Design/Components.md",
+    "Backend/NodeJS/NestJS/Abstract Service.md",
+    "Backend/Database/Prisma/Untitled.md",
+    "Bisaya.md",
+    "Backend/NodeJS/NestJS/interceptor.md",
+    "Backend/NodeJS/NestJS/ArgumentHost.md",
+    "Backend/NodeJS/NestJS/cookie.md",
+    "Backend/Database/Prisma/Using PrismaClient/Include vs Select.md",
+    "Backend/Database/Prisma/Using PrismaClient",
+    "Tasks Today.md",
+    "To Learn.md",
+    "Projects/Zeon.md",
+    "My Journey.md",
+    "ReadMe.md",
+    "Backend/Database/Prisma",
+    "Backend/Database",
+    "Backend/NodeJS",
     "Fundamentals/Methods",
-    "Fundamentals/Promises.md",
-    "Fundamentals/Json.md",
-    "Packages/class-transformer.md",
-    "Packages/cookie-parser.md",
-    "Packages/JWT token.md",
-    "Typescript/TypeScript.md",
-    "Typescript/Type-based declaration.md",
-    "Typescript/Interface vs Type.md",
     "Resources/Figma - Reusable components.webm",
-    "Packages/Tailwind.md",
-    "Packages/Memo.md",
-    "Packages/Laravel Excel.md",
-    "Packages/bcrypt.md",
-    "Packages/Axios.md",
-    "Packages/vee-validate.md",
-    "Packages/VueUse.md",
-    "Packages/TUI Grid.md",
     "Packages",
     "Frontend/Tailwind",
-    "Frontend/VueJS/NuxtJS",
-    "Github",
-    "Frontend/VueJS/V-model"
+    "Frontend/VueJS/NuxtJS"
   ]
 }

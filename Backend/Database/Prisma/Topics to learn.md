@@ -1,0 +1,14 @@
+- [ ] Prisma Schema
+	- [x] Data sources
+	- [x] Generators
+	- [x] Data model
+	- [x] Relations
+	- [ ] Views
+	- [ ] Indexes
+- [ ] Prisma Client
+	- [x] working with PrismaClient
+	- [ ] CRUD
+	- [ ] Select firleds
+	- [ ] Relation queries
+	- [ ] Filtering and sorting
+	- [ ] Middleware

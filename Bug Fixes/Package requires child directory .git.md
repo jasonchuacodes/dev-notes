@@ -49,7 +49,7 @@ npm install eslint lint-staged --save-dev
 
 Remember to adjust the ESLint configuration according to your project's needs.
 
-`.husky/commit-msg`
+`.husky/pre-commit`
 ```js
 #!/usr/bin/env sh
 

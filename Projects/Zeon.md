@@ -1,4 +1,4 @@
-Assigned to project ZEON - an inventory tracking app which feature s a profit simulatio, shipping costs, and raw material tracking. The app hosts data by the millions. 
+Assigned to project ZEON - an inventory tracking app which features profit simulation, shipping costs calculator, and raw material tracking. The app hosts data by the millions. 
 
 The project was done in a monolithic approach using TALL (Tailwind, AlpineJS, Laravel, Livewire) techstack.
 

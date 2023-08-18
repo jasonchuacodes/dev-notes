@@ -1,4 +1,4 @@
-Here's my timeline:
+#### Timeline
 
 - Mar 2016 - I graduated at Silliman University with a Bachelor's Degree in Chemistry
 - Oct 2016 - Passed the Chemistry licensure exam
