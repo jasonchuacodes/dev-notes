@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "927dd26c8dcd713c",
+        "id": "af01ec260af72bea",
         "type": "tabs",
         "children": [
           {
-            "id": "642dae47083d2966",
+            "id": "a9ac271e3cc44210",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Github/SSH authentication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Github/SSH authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Github/SSH authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Github/SSH authentication.md"
+              }
             }
           }
         ]
@@ -138,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "642dae47083d2966",
+  "active": "a9ac271e3cc44210",
   "lastOpenFiles": [
+    "Github/Unwanted tracking branch.md",
+    "Github/SSH authentication.md",
+    "Tooling/Docker/docker-compose.yml.md",
+    "Tooling/Docker/Dockerfile.md",
     "Backend/Database/Prisma/Setting up Prisma & Database.md",
     "Backend/Database/Prisma/Topics to learn.md",
     "Backend/Laravel/Collections.md",
@@ -164,10 +176,6 @@
     "Backend/Database/Prisma/Using PrismaClient/Include vs Select.md",
     "Backend/Database/Prisma/Using PrismaClient",
     "Tasks Today.md",
-    "To Learn.md",
-    "Projects/Zeon.md",
-    "My Journey.md",
-    "ReadMe.md",
     "Backend/Database/Prisma",
     "Backend/Database",
     "Backend/NodeJS",
