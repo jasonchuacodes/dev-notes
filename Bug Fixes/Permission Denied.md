@@ -1,6 +1,7 @@
 #### Problem
 Cannot access files or run `pnpm dev` because of permission denied.
 
+#### Reason
 Permissions granted for current user doesn't include reading/writing in the current directory and its contents.
 
 #### Solution

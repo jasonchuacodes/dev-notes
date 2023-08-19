@@ -1,12 +1,11 @@
-### Problem
-The  project `sph` is split into two main directories - `fe` and `be`. 
-I need to install a linter package "husky" which needs the .git file. 
+#### Problem
+The `sph` project is split into two main directories - `fe` and `be`. I need to install a linter package "husky" which need the .git file. 
 
 The problem is, the .git file is inside the parent directory and the package.json file is inside `fe` directory.
 
 ____
 
-### Solution
+#### Solution
 You don't need to run `git init` again inside the "fe" folder. The root folder "sph" is already initialized as a Git repository, and running `git init` again in a subdirectory will create a separate repository within that subdirectory.
 
 To resolve the issue and make Husky work, you can follow these steps:
