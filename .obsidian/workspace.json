@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "355753f2d269e3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/ReactJS/React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a284a1c761a90b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/ReactJS/React Context.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53dc087b0aed42b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -38,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github/SSH authentication.md",
+                "file": "Typescript/TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github/SSH authentication.md",
+                "file": "Typescript/TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github/SSH authentication.md"
+                "file": "Typescript/TypeScript.md"
               }
             }
           }
@@ -146,10 +183,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9ac271e3cc44210",
+  "active": "53dc087b0aed42b9",
   "lastOpenFiles": [
-    "Github/Unwanted tracking branch.md",
+    "Typescript/Interface vs Type.md",
+    "Typescript/Type-based declaration.md",
+    "Typescript/TypeScript.md",
+    "Typescript/Using enums as types.md",
+    "Frontend/Tailwind/custom styles.md",
+    "Frontend/Styles/Truncating long text.md",
+    "Frontend/Styles",
+    "Frontend/ReactJS/React Context.md",
+    "Frontend/ReactJS/React.md",
+    "Frontend/ReactJS/Components.md",
+    "Frontend/ReactJS/Combining state in React useState.md",
+    "Frontend/ReactJS/Hooks/useState.md",
+    "Github/Cherry-picking commits in git.md",
     "Github/SSH authentication.md",
+    "Github/Unwanted tracking branch.md",
     "Tooling/Docker/docker-compose.yml.md",
     "Tooling/Docker/Dockerfile.md",
     "Backend/Database/Prisma/Setting up Prisma & Database.md",
@@ -162,27 +212,14 @@
     "Bug Fixes/CORS error.md",
     "Bug Fixes/Package requires child directory .git.md",
     "Bug Fixes/VSCode uses src as import path.md",
-    "Bug Fixes/Permission Denied.md",
-    "Fundamentals/Clean Code/Learnings.md",
     "Fundamentals/Clean Code",
-    "Web Design/Figma Plugins.md",
-    "Web Design/Components.md",
-    "Backend/NodeJS/NestJS/Abstract Service.md",
-    "Backend/Database/Prisma/Untitled.md",
-    "Bisaya.md",
-    "Backend/NodeJS/NestJS/interceptor.md",
-    "Backend/NodeJS/NestJS/ArgumentHost.md",
-    "Backend/NodeJS/NestJS/cookie.md",
-    "Backend/Database/Prisma/Using PrismaClient/Include vs Select.md",
     "Backend/Database/Prisma/Using PrismaClient",
-    "Tasks Today.md",
     "Backend/Database/Prisma",
     "Backend/Database",
     "Backend/NodeJS",
     "Fundamentals/Methods",
     "Resources/Figma - Reusable components.webm",
     "Packages",
-    "Frontend/Tailwind",
-    "Frontend/VueJS/NuxtJS"
+    "Frontend/Tailwind"
   ]
 }
