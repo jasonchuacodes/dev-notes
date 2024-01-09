@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bd491da66f3e4015",
+        "id": "703f35ee7c2c0e5f",
         "type": "tabs",
         "children": [
           {
-            "id": "57e870ee55da41de",
+            "id": "d737604d781d77a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Task 208.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "object.keys",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "right": {
     "id": "532f7ca8b6caa526",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Task 208.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Task 208.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Task 208.md"
+              }
+            }
+          },
+          {
+            "id": "185c88d57d511db4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ]
@@ -138,43 +158,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57e870ee55da41de",
+  "active": "d737604d781d77a5",
   "lastOpenFiles": [
-    "Frontend/VueJS/watch method.md",
-    "Fundamentals/History.md",
-    "Fundamentals/Clean Code/Learnings.md",
+    "Task 210.md",
+    "Task 208.md",
+    "ReadMe.md",
     "Github/SSH authentication.md",
-    "Untitled.md",
-    "Frontend/JavaScript/window events.md",
-    "Frontend/JavaScript/Javascript.md",
-    "Frontend/JavaScript",
-    "Packages/react-signature-canvas.md",
-    "Packages/js-cookie.md",
-    "Packages/bcrypt.md",
-    "Packages/Laravel Excel.md",
-    "Packages/Zod - validation.md",
+    "Github/SSH keys.md",
+    "Github/Unwanted tracking branch.md",
+    "Frontend/VueJS/NuxtJS/defineEmits().md",
+    "JobRegistrationTypes.md",
+    "TO LEARN.md",
     "Packages/vee-validate.md",
-    "Packages/nodemon.md",
-    "Frontend/ReactJS/React.md",
-    "Frontend/ReactJS/React Context.md",
-    "Frontend/ReactJS/Combining state in React useState.md",
+    "Packages/Zod - validation.md",
+    "Fundamentals/Methods/Filter.md",
+    "Backend/Laravel/Collections.md",
+    "Fundamentals/Spread operator.md",
+    "Bug Fixes/CORS error.md",
+    "Packages/Axios.md",
+    "Fundamentals/Switch case.md",
+    "PR Review/198.md",
+    "PR Review",
+    "Frontend/ReactJS/NextJS/getServerSideProps.md",
+    "Frontend/ReactJS/NextJS/Route Protection.md",
+    "Frontend/ReactJS/NextJS/NextJS.md",
+    "Bug Fixes/VSCode uses src as import path.md",
+    "Bug Fixes/Docker Setup for m1 chip.md",
+    "Bug Fixes/Package requires child directory .git.md",
     "Bug Fixes/Permission Denied.md",
-    "VSCode terminal uses incorrect node version.md",
-    "Frontend/VueJS/NuxtJS/defineProps().md",
-    "Frontend/VueJS/File structure.md",
-    "Frontend/VueJS/Creating a Vue app.md",
-    "Frontend/VueJS/Course credentials.md",
-    "Frontend/VueJS/Context.md",
-    "Frontend/VueJS/Composables.md",
-    "Frontend/VueJS/Setting up v-model.md",
-    "Backend/Database/OpenSearch",
-    "Frontend/Styles",
+    "Backend/NodeJS/NestJS/pipes.md",
     "Fundamentals/Clean Code",
     "Backend/Database/Prisma/Using PrismaClient",
     "Backend/Database/Prisma",
     "Backend/Database",
     "Backend/NodeJS",
     "Fundamentals/Methods",
-    "Resources/Figma - Reusable components.webm"
+    "Resources/Figma - Reusable components.webm",
+    "Packages",
+    "Frontend/Tailwind"
   ]
 }

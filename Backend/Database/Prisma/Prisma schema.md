@@ -18,7 +18,10 @@ In the `Post model`, we define a many-to-one relation with the `User model` usin
 
 ___
 #### Notes 
-In the example above, we need to take note that in order to establish a 1-n relation between `User` and `Post` , we needed to defined the *Foreign key* via the relation scalar field of Post.
+
+* In setting up prisma schema, scalar fields are the ones that appear in queries and tables. @relations are only there to define the relationship between models. This took me a while to understand when doing my exercises
+
+* In the example above, we need to take note that in order to establish a 1-n relation between `User` and `Post` , we needed to defined the *Foreign key* via the relation scalar field of Post.
 ```js
 model Post {
   id       Int  @id @default(autoincrement())

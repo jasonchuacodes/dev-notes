@@ -7,7 +7,7 @@ To set VSCode to use relative paths instead of absolute paths in your imports, y
 
 1. Open the VSCode settings by pressing `Ctrl + ,` on Windows or `Cmd + ,` on Mac.
 2. Make sure that you are on the `Workspace` tab 
-3. Search for "typescript.preferences.importModuleSpecifier" in the search bar.
+3. Search for "typescript.preferences.importModuleSpecifier" in the search bar. Either this shows up in the search result or there's a dropdown available.
 4. Click on "Edit in settings.json" to open the `settings.json` file.
 5. Add the following line to the `settings.json` file:
    ```
