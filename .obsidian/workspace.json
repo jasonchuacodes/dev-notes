@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "af01ec260af72bea",
+        "id": "bd491da66f3e4015",
         "type": "tabs",
         "children": [
           {
-            "id": "a9ac271e3cc44210",
+            "id": "57e870ee55da41de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github/SSH authentication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "355753f2d269e3ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/ReactJS/React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a284a1c761a90b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/ReactJS/React Context.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53dc087b0aed42b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/TypeScript.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prisma",
+                "query": "object.keys",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Typescript/TypeScript.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,43 +138,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53dc087b0aed42b9",
+  "active": "57e870ee55da41de",
   "lastOpenFiles": [
-    "Typescript/Interface vs Type.md",
-    "Typescript/Type-based declaration.md",
-    "Typescript/TypeScript.md",
-    "Typescript/Using enums as types.md",
-    "Frontend/Tailwind/custom styles.md",
-    "Frontend/Styles/Truncating long text.md",
-    "Frontend/Styles",
-    "Frontend/ReactJS/React Context.md",
-    "Frontend/ReactJS/React.md",
-    "Frontend/ReactJS/Components.md",
-    "Frontend/ReactJS/Combining state in React useState.md",
-    "Frontend/ReactJS/Hooks/useState.md",
-    "Github/Cherry-picking commits in git.md",
+    "Frontend/VueJS/watch method.md",
+    "Fundamentals/History.md",
+    "Fundamentals/Clean Code/Learnings.md",
     "Github/SSH authentication.md",
-    "Github/Unwanted tracking branch.md",
-    "Tooling/Docker/docker-compose.yml.md",
-    "Tooling/Docker/Dockerfile.md",
-    "Backend/Database/Prisma/Setting up Prisma & Database.md",
-    "Backend/Database/Prisma/Topics to learn.md",
-    "Backend/Laravel/Collections.md",
-    "Backend/Database/Prisma/Using PrismaClient/Some.md",
-    "Backend/Database/Prisma/Pagination.md",
-    "Backend/Database/Prisma/Prisma schema.md",
-    "Backend/Database/Prisma/PrismaClient.md",
-    "Bug Fixes/CORS error.md",
-    "Bug Fixes/Package requires child directory .git.md",
-    "Bug Fixes/VSCode uses src as import path.md",
+    "Untitled.md",
+    "Frontend/JavaScript/window events.md",
+    "Frontend/JavaScript/Javascript.md",
+    "Frontend/JavaScript",
+    "Packages/react-signature-canvas.md",
+    "Packages/js-cookie.md",
+    "Packages/bcrypt.md",
+    "Packages/Laravel Excel.md",
+    "Packages/Zod - validation.md",
+    "Packages/vee-validate.md",
+    "Packages/nodemon.md",
+    "Frontend/ReactJS/React.md",
+    "Frontend/ReactJS/React Context.md",
+    "Frontend/ReactJS/Combining state in React useState.md",
+    "Bug Fixes/Permission Denied.md",
+    "VSCode terminal uses incorrect node version.md",
+    "Frontend/VueJS/NuxtJS/defineProps().md",
+    "Frontend/VueJS/File structure.md",
+    "Frontend/VueJS/Creating a Vue app.md",
+    "Frontend/VueJS/Course credentials.md",
+    "Frontend/VueJS/Context.md",
+    "Frontend/VueJS/Composables.md",
+    "Frontend/VueJS/Setting up v-model.md",
+    "Backend/Database/OpenSearch",
+    "Frontend/Styles",
     "Fundamentals/Clean Code",
     "Backend/Database/Prisma/Using PrismaClient",
     "Backend/Database/Prisma",
     "Backend/Database",
     "Backend/NodeJS",
     "Fundamentals/Methods",
-    "Resources/Figma - Reusable components.webm",
-    "Packages",
-    "Frontend/Tailwind"
+    "Resources/Figma - Reusable components.webm"
   ]
 }

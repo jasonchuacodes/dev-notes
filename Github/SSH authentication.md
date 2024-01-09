@@ -3,7 +3,7 @@ When running git pull, I'm receiving the error:
 `ERROR: Repository not found. fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists.`
 
 ### CAUSE
-This is an SSH issue since I'm using two SSH keys (one for work under ~jasonchuacodes~ and one for side projects under `jasonclchua`). In order to be authenticated I need to configure the SSH connection to use the SSH key that I need.
+This is an SSH issue since I'm using two SSH keys (one for work under `jasonchuacodes` and one for side projects under `jasonclchua`). In order to be authenticated I need to configure the SSH connection to use the SSH key that I need.
 
 _____
 ### SOLUTION
