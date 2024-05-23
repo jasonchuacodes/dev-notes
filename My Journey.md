@@ -15,6 +15,7 @@
 * Feb 2023 - [[SleepWell]] 
 * Apr 2023 - learned Web Design and Figma
 * May-Jun 2023 - designed internal projects (SunOverflow, SunLMS , SunBlockchain)
+* Feb 2024-present - employed at Offshorly
 
 I started my coding journey by learning [[Javascript]].
 Had an opportunity to be employed at Sun Asterisk on May 2, 2022 as a junior full-stack web developer. 
