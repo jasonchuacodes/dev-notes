@@ -1,0 +1,1 @@
+`markdownlint` is a static analysis tool for NodeJS with a library of rules to enforce standards and consistency for Markdown files.

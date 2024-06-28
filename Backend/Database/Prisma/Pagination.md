@@ -1,5 +1,8 @@
-Pagination in Prisma is done in two (2) ways: `cursor-based` and `seek-based`
-- `cursor-based pagination` - uses a cursor value to check what that last fetch data item is. It's pros are that it scales and is useful for infinite scrolling. But the cons is that it cannot skip to the middle bulk of the data. 
+Pagination in Prisma is done in two (2) ways: `cursor-based` and `seek-based`.
+## cursor-based pagination
+
+Cursor-based pagination uses a cursor value to check what that last fetch data item is. It's pros are that it scales and is useful for infinite scrolling. But the cons is that it cannot skip to the middle bulk of the data.
+
 ```js
 const pageSize = 4 // number of items per page
 const myCursor = 52 // starting cursor
@@ -31,7 +34,11 @@ const secondPage = await prisma.post.findMany({
   orderBy: { id: 'asc' }, // optional sorting
 })
 ```
-- `seek-based pagination` - uses a unique identifier (foreign key) for the data to fetch the next set of results. 
+
+## seek-based pagination
+
+Seek-based pagination uses a unique identifier (foreign key) for the data to fetch the next set of results.
+
 ```js
 const chunkSize = 10 // number of items per chunk
 const lastItemId = 50 // unique identifier of the last item in the previous chunk

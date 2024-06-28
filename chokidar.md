@@ -1,0 +1,1 @@
+Chokidar does still rely on the Node.js core `fs` module, but when using `fs.watch` and `fs.watchFile` for watching, it normalizes the events it receives, often checking for truth by getting file stats and/or dir contents.
