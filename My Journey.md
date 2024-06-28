@@ -8,15 +8,26 @@
 - May 2019-2022 - Worked as a Senior High teacher at Silliman University SHS
 
 - June 2021 - Started my self-study coding journey by learning HTML, CSS, and Javascript 
+<<<<<<< Updated upstream
 - May 2022 - Started working at Sun Asterisk as a Junior Web Developer 
+=======
+- May 2022 - Started working at Sun Asterisk as a Junior Frontend Web Developer 
+>>>>>>> Stashed changes
 
 - Dec 2022-Mar 2023 - [[Zeon]] 
 - Dec 2022 - [[Barclerk]] 
 * Feb 2023 - [[SleepWell]] 
 * Apr 2023 - learned Web Design and Figma
 * May-Jun 2023 - designed internal projects (SunOverflow, SunLMS , SunBlockchain)
+<<<<<<< Updated upstream
 * Feb 2024-present - employed at Offshorly
 
 I started my coding journey by learning [[Javascript]].
 Had an opportunity to be employed at Sun Asterisk on May 2, 2022 as a junior full-stack web developer. 
+=======
+* Feb 2024 - Started working at Offshorly as a Junior FullStack Developer
+
+I started my coding journey by learning [[Javascript]].
+Had an opportunity to be employed at Sun Asterisk on May 2, 2022 as a junior web developer. 
+>>>>>>> Stashed changes
 Having no prior knowledge in Backend Development, I also had to learn [[PHP]] through Laravel.

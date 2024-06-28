@@ -1,5 +1,5 @@
 #### Purpose
-Used to 'intercept' the data and do actions to it. 
+Used to `intercept` the data and do actions to it. 
 One use-case is to transform the response data - to exclude some set fields.
 
 #### Usage

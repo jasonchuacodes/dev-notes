@@ -12,7 +12,7 @@ Here's how to do it:
 2. git pull
 3. find the hash of the commit of bugfix then copy it
 4. checkout to the production-release branch. `git checkout deploy/20231204-190347
-5. cherry-pick the commit of the bugffix. Use the commit-hash that was copied. `git cherry-pick <commit-hash>`
+5. cherry-pick the commit of the bugfix. Use the commit-hash that was copied. `git cherry-pick <commit-hash>`
 6. if successful, you may push the commit immediately.
 7. Otherwise, if conflicts emerge, you have to resolve them. Then `git add .` and `git cherry-pick --continue`
 8. Finally, do `git push`. Do not force-push.

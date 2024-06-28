@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "703f35ee7c2c0e5f",
+        "id": "901f0b2f2fa411bf",
         "type": "tabs",
         "children": [
           {
-            "id": "d737604d781d77a5",
+            "id": "cfc5ad06cef6f905",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task 208.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tailwind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 243.50438690185547
   },
   "right": {
     "id": "532f7ca8b6caa526",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task 208.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task 208.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Task 208.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,43 +150,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d737604d781d77a5",
+  "active": "cfc5ad06cef6f905",
   "lastOpenFiles": [
-    "Task 210.md",
-    "Task 208.md",
-    "ReadMe.md",
-    "Github/SSH authentication.md",
+    "Packages/tailwind.md",
     "Github/SSH keys.md",
+    "Github/SSH authentication.md",
+    "Github/Cherry-picking commits in git.md",
     "Github/Unwanted tracking branch.md",
-    "Frontend/VueJS/NuxtJS/defineEmits().md",
-    "JobRegistrationTypes.md",
-    "TO LEARN.md",
-    "Packages/vee-validate.md",
-    "Packages/Zod - validation.md",
-    "Fundamentals/Methods/Filter.md",
-    "Backend/Laravel/Collections.md",
-    "Fundamentals/Spread operator.md",
-    "Bug Fixes/CORS error.md",
-    "Packages/Axios.md",
-    "Fundamentals/Switch case.md",
-    "PR Review/198.md",
+    "Backend/AWS/AWS Lambda.md",
+    "Packages/axios.md",
+    "Web Design/Components.md",
+    "Frontend/VueJS/File structure.md",
+    "Projects/MMS/Strategy.md",
+    "Backend/NodeJS/NestJS/interceptor.md",
+    "Frontend/ReactJS/Combining state in React useState.md",
+    "Frontend/ReactJS/Untitled.md",
+    "Frontend/ReactJS/React Context.md",
+    "Frontend/ReactJS/Components.md",
+    "Backend/Database/GraphQL/Setup.md",
+    "Backend/Database/GraphQL/Resolvers.md",
+    "Backend/Database/GraphQL/Schema.md",
+    "Backend/Database/GraphQL/Apollo Sandbox.md",
+    "Backend/Database/GraphQL/Integration.md",
+    "Backend/Database/GraphQL/Untitled",
+    "Backend/Database/Postman/setup.md",
+    "Backend/Database/GraphQL",
+    "DevOps/zsh.md",
+    "Untitled.md",
+    "DevOps",
+    "Backend/Database/MySQL/Access denied for mysql connection.md",
+    "Backend/Database/MySQL/Installation on Ubuntu.md",
+    "Backend/Database/MySQL/no access rights on MySQL on Ubuntu.md",
+    "Backend/AWS",
+    "Hosting",
+    "Pasted image 20240220092620.png",
+    "Pasted image 20240220090745.png",
+    "Pasted image 20240220092937.png",
+    "Projects/MMS",
+    "Backend/Database/Postman",
+    "Backend/Database/MySQL",
     "PR Review",
-    "Frontend/ReactJS/NextJS/getServerSideProps.md",
-    "Frontend/ReactJS/NextJS/Route Protection.md",
-    "Frontend/ReactJS/NextJS/NextJS.md",
-    "Bug Fixes/VSCode uses src as import path.md",
-    "Bug Fixes/Docker Setup for m1 chip.md",
-    "Bug Fixes/Package requires child directory .git.md",
-    "Bug Fixes/Permission Denied.md",
-    "Backend/NodeJS/NestJS/pipes.md",
-    "Fundamentals/Clean Code",
-    "Backend/Database/Prisma/Using PrismaClient",
-    "Backend/Database/Prisma",
-    "Backend/Database",
-    "Backend/NodeJS",
-    "Fundamentals/Methods",
-    "Resources/Figma - Reusable components.webm",
-    "Packages",
-    "Frontend/Tailwind"
+    "Fundamentals/Clean Code"
   ]
 }
