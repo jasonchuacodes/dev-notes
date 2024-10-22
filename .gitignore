@@ -1,2 +1,5 @@
+# Ignore Obsidian configuration files
 .obsidian
+
+# Ignore workspace.json file
 workspace.json
